@@ -4,7 +4,7 @@
 win7+IDEA+SSH框架。
 ####写在前面的话
 之前在学习了jsp、servlet、jdbc和mysql数据库相关技术之后就做过相关的客户员工之类的练习，初步学习了Struts2、Hibernate、Spring框架之后呢,就想使用ssh框架实现下类似的系统,对比一下使用框架和使用jsp、servlet 的好处优点。
-这里做一个使用三个框架整合的案例,也算是对相关技术的复习运用，加深理解吧。详细过程请[ 请点击这里 ]( http://www.jianshu.com/u/0cb624d78376 )或前往我的[ 简书地址 ]( http://www.jianshu.com/u/0cb624d78376 )观看吧。
+这里做一个使用三个框架整合的案例,也算是对相关技术的复习运用，加深理解吧。详细过程请[ 请点击这里 ](http://www.jianshu.com/p/50ee425e783f)或前往我的[ 简书地址 ]( http://www.jianshu.com/u/0cb624d78376 )观看吧。
 
 
 
